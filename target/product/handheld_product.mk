@@ -27,7 +27,6 @@ PRODUCT_PACKAGES += \
     DeskClock \
     Music \
     preinstalled-packages-platform-handheld-product.xml \
-    QuickSearchBox \
     SettingsIntelligence \
     frameworks-base-overlays
 
