@@ -30,9 +30,6 @@ PRODUCT_PACKAGES += \
     SettingsIntelligence \
     frameworks-base-overlays
 
-# Include only for eng builds.
-PRODUCT_PACKAGES_ENG += \
-    Browser2
 
 ifeq ($(LMODROID_BUILD),)
 PRODUCT_PACKAGES += \
